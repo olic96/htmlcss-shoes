@@ -19,6 +19,10 @@ body{
     font-family: 'Rubik Mono One', sans-serif;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 
 
 
@@ -37,7 +41,6 @@ nav ul li{
     display: inline-block;
     margin: 20px 10px;
 }
-
 
 a{
     text-decoration: none;
