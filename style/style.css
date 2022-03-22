@@ -8,6 +8,42 @@
 
 /* Commons */
 .container{
-    max-width: 1000px;
+    max-width: 1200px;
     margin: auto;
+}
+
+body{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+
+/* Header */
+header{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: transparent;
+    text-align: right;
+}
+
+nav ul li{
+    display: inline-block;
+    margin: 20px 10px;
+}
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.page{
+    background-color: lightslategray;
+    color: inherit;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border-radius: 50%;   
 }
