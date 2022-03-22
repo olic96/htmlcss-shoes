@@ -74,6 +74,10 @@ section{
     font-size: 40px;
 }
 
+.text-2{
+    color: green;
+}
+
 img{
     width: 500px;
     height: 400px;
@@ -82,4 +86,12 @@ img{
 
 #red{
     background-color: red;
+}
+
+#green{
+    background-color: green;
+}
+
+#yellow{
+    background-color: yellow;
 }
