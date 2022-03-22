@@ -7,7 +7,30 @@
 
 /* Commons */
 .container{
-
+    
 }
 
 /* Header */
+header{
+    
+}
+
+nav{
+    text-align: right;
+    margin-top: 3vh;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: small;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding-right: 9px;
+    padding-left: 9px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: lightslategray;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
