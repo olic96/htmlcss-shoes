@@ -11,7 +11,7 @@
 }
 
 /* Header */
-header{
+header{background-color: transparent;
     
 }
 
@@ -33,4 +33,17 @@ a{
     border-radius: 50%;
     margin-left: 10px;
     margin-right: 10px;
+}
+
+/* Main */
+.shoe{
+    position: relative;
+    background-color: red;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.shoe-1{
+
 }
