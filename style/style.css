@@ -1,4 +1,5 @@
 /* Reset */
+
 *{
     margin: 0;
     padding: 0;
@@ -7,43 +8,6 @@
 
 /* Commons */
 .container{
-    
-}
-
-/* Header */
-header{background-color: transparent;
-    
-}
-
-nav{
-    text-align: right;
-    margin-top: 3vh;
-}
-
-a{
-    text-decoration: none;
-    color: black;
-    font-size: small;
-    font-family: Verdana, Tahoma, sans-serif;
-    padding-right: 9px;
-    padding-left: 9px;
-    padding-top: 5px;
-    padding-bottom: 5px;
-    background-color: lightslategray;
-    border-radius: 50%;
-    margin-left: 10px;
-    margin-right: 10px;
-}
-
-/* Main */
-.shoe{
-    position: relative;
-    background-color: red;
-    width: 100vw;
-    height: 100vh;
-
-}
-
-.shoe-1{
-
+    max-width: 1000px;
+    margin: auto;
 }
